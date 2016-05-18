@@ -44,5 +44,6 @@ Resolved that a special meeting of the first members of the Corporation be held 
 
 The undersigned, being all the directors of the Corporation, hereby consent, by their signatures, to the foregoing resolutions pursuant to the provisions of the Canada Not-for-profit Corporations Act.
 
-Dated this May 17, 2016
-Director: Iurii Rashkovskyi
+**Dated this May 17, 2016**
+
+**Director: Iurii Rashkovskyi**
