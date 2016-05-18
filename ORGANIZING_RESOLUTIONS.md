@@ -1,4 +1,4 @@
-**Organizing Resolutions **of the Directors of Eventsourcing, Inc. (the “Corporation”) on (insert date).
+**Organizing Resolutions** of the Directors of Eventsourcing, Inc. (the “Corporation”) on May 17, 2016.
 
 The undersigned, being all of the directors of the Corporation, hereby sign the following resolutions:
 
