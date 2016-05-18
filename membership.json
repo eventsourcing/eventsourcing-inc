@@ -1,0 +1,21 @@
+{
+ "info": {"name": "Eventsourcing, Inc."},
+ "stripe": {
+    "allowRememberMe": true,
+    "billingAddress": true,
+    "bitcoin": true,
+    "publishableKey": "pk_live_O3mX90YSUNIKTd9X2EMMW6Mc",
+    "shippingAddress": true,
+    "capture": true
+  },
+ "server": {
+   "host": "membership.eventsourcing.com"
+ },
+ "products": {
+   "Individual": {
+     "amount": 100,
+     "name": "Individual annual membership",
+     "plan": "INDIVIDUAL"
+   }
+ }
+}
