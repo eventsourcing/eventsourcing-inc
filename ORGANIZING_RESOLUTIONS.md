@@ -10,11 +10,11 @@ Resolved that the set of by-laws relating generally to the transaction of the af
 
 Resolved that the following persons be and are hereby appointed officers of the Corporation to hold office for a term of 1 years or until a successor is appointed, whichever occurs first:
 
-Chair of the board: Iurii Rashkovskyi
-President: Iurii Rashkovskyi
-Vice-president: -
-Secretary: Iurii Rashkovskyi
-Treasurer: Iurii Rashkovskyi
+* Chair of the board: Iurii Rashkovskyi
+* President: Iurii Rashkovskyi
+* Vice-president: -
+* Secretary: Iurii Rashkovskyi
+* Treasurer: Iurii Rashkovskyi
 
 # Issuance of memberships
 
