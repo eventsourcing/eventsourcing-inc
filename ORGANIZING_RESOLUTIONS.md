@@ -22,6 +22,19 @@ Resolved that the following persons are admitted as members of the Corporation a
 
 * Yurii Rashkovskii
 
+Resolved that the initial membership annual dues for Class A individual members
+and non-profit corporate members are $100 USD (one hundred U.S. dollars).
+
+Resolved that the initial membership annual dues for Class A for-profit corporate members are as follows:
+
+* For startup companies (less than 2 years old, less than 10 employees): $250 USD (one hundred U.S. dollars).
+* For companies with less than 20 employees: $1,000 USD (one thousand U.S. dollars).
+* For companies with less than 100 employees: $5,000 USD (five thousand U.S. dollars).
+* For all other companies: $20,000 USD (twenty thousand U.S. dollars).
+
+Resolved that the Class A membership can be granted to individual Contributors
+free of charge, upon their request and subject to board of directors approval.
+
 # Financial year end
 
 Resolved that the financial year of the Corporation shall end on April 31st in each year.
