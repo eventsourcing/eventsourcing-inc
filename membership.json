@@ -12,7 +12,7 @@
    "host": "membership.eventsourcing.com"
  },
  "products": {
-   "Individual": {
+   "x-Individual": {
      "amount": 100,
      "name": "Individual annual membership",
      "plan": "INDIVIDUAL"
