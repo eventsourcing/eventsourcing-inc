@@ -6,3 +6,5 @@ and governance of the Eventsourcing project.
 * [Organizing Resolutions](ORGANIZING_RESOLUTIONS.md)
 * [Bylaws](BYLAWS.md)
 * [Incorporation certificate](https://github.com/eventsourcing/eventsourcing-inc/raw/master/Incorporation-Constitution-Cert.pdf)
+
+You can become a member by signing up at https://eventsourcing.com/membership/signup/ 
